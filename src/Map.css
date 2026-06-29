@@ -1,0 +1,14 @@
+#Map {
+    position: relative;
+    z-index: 0;
+    margin: auto
+}
+
+#GameView {
+    margin: auto;
+    position: relative;
+/*    top: 230px;*/
+    width: 60%;
+/*    height: 60%;*/
+    overflow: scroll;
+}
